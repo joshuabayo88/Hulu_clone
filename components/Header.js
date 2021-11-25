@@ -23,7 +23,7 @@ const Header = () => {
 			</div>
 			<Link href="localhost:3000">
 			<Image
-				className="object-contain cursor-pointer"
+				className="object-contain cursor-pointer transition duration-200 transform animate-pulse"
 				src="https://links.papareact.com/ua6"
 				width={200}
 				height={100}
